@@ -1,3 +1,1 @@
-﻿https://michaelandrefraniatte.github.io/localstorage-info-official  
-  
-https://github.com/michaelandrefraniatte  
+﻿https://github.com/michaelandrefraniatte
